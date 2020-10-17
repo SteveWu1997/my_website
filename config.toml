@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://kostis-portfolio.netlify.app/"
+baseURL = "https://laughing-roentgen-e0fc05.netlify.app/"
 languageCode = "en-us"
 title = "Portfolio website for Tong Wu"
 theme = "forty"
