@@ -1,0 +1,14 @@
+---
+title: "biden"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Joe Biden
+
+### Former Vice President of the United States
+
+Joseph Robinette Biden Jr. is an American politician who served as the 47th vice president of the United States from 2009 to 2017. A member of the Democratic Party, he served as a United States Senator for Delaware from 1973 to 2009. Biden is the Democratic presidential nominee for the 2020 election, running against the incumbent, President Donald Trump.

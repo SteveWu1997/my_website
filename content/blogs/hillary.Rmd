@@ -1,0 +1,13 @@
+---
+title: "Hillary"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Hillary Clinton
+### American Politician
+
+Hillary Diane Rodham Clinton is an American politician, diplomat, lawyer, writer, and public speaker who served as the 67th United States secretary of state from 2009 to 2013, as a United States senator from New York from 2001 to 2009, and as First Lady of the United States from 1993 to 2001. Clinton became the first woman to be nominated for president of the United States by a major political party when she won the Democratic Party nomination in 2016. She was the first woman to win the popular vote in an American presidential election, which she lost to Donald Trump.

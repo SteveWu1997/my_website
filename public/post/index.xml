@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Portfolio website for Tong Wu</title>
+    <link>https://kostis-portfolio.netlify.app/post/</link>
+    <description>Recent content in Posts on Portfolio website for Tong Wu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kostis-portfolio.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump</title>
+      <link>https://kostis-portfolio.netlify.app/post/trump/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostis-portfolio.netlify.app/post/trump/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

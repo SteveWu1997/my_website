@@ -95,26 +95,26 @@ disqusShortname = ""
       title = "Donald Trump"
       subtitle = "Make America Great Again"
       image = "pic99.jpeg"
-      url = "blogs/blog6"    
+      url = "/blogs/trump"    
 
 
     [[params.tiles.showcase]]
       title = "Biden"
       subtitle = "Biden says he will seek consensus on tax plan"
       image = "pic11.jpg"
-      url = "blogs/blog5"
+      url = "blogs/biden"
 
     [[params.tiles.showcase]]
       title = "Barack Obama"
       subtitle = "44th President of the United States"
       image = "pic03.jpg"
-      url = "blogs/magna"
+      url = "blogs/obama"
 
     [[params.tiles.showcase]]
       title = "Hillary Clinton"
       subtitle = "American politician"
       image = "pic04.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/hillary"
 
 #    [[params.tiles.showcase]]
 #      title = "Consequat"
